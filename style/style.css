@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Hedvig+Letters+Serif:opsz@12..24&family=Roboto+Mono&family=Roboto:wght@400;500&family=Sono:wght@400;800&display=swap');
+
+
+*{
+      font-family: 'Roboto', sans-serif;
+    
+}
+
+
+body{
+    background-color:#ecf0f1;
+}
+
+/* .NavBarColor{
+    background-color: ;
+} */
+.portfolioColor{
+   color: #3867d6;
+}
+
+  
+
+.navLinkColor{
+    color: #eb3b5a;
+}
+
+.navLinkColor:hover{
+    border-bottom: 3px solid violet;
+}
+
+.nameColor{
+    color: #9b59b6;
+}
+
+
+
+
+
+
+.electronicsFont{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.aboutPara{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+
+
+.DecorationNone{
+    text-decoration: none;
+}
+.CourseLink{
+    transition: width 0.5s linear 0.2s;
+}
+.CourseLink:hover{
+    width: 90%;
+}
+
+.CourseLink02{
+    transition: width 0.5s linear 0.2s;
+}
+.CourseLink02:hover{
+    width: 90%;
+}
+
+.CertificateBackground
+{
+    background-color: #f1f2f6;
+    border: 1px inset violet;
+    border-radius: 5px;
+}
+
+.ProjectDesign{
+    /* background-color: #ecf0f1; */
+    border-radius: 5px;
+}
+
+
+.ProjectPicture{
+    transition: width 0.3s linear 0.2s;
+}
+.ProjectPicture:hover{
+    width: 60%;
+}
+
+
+.email{
+    text-decoration: none;
+    font-size: 15px;
+    color: brown;
+}
+
+.email:hover{
+    text-decoration: underline;
+}
+
+.ContactParagraph{
+    line-height: 2;
+}
+
+
+.HeroSectionIntroduction
+{
+    line-height: 1.1;
+}
